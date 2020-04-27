@@ -1,0 +1,7 @@
+F:\Drive\Kombinacje\Kombinacje\bin\Debug\Kombinacje.exe.config
+F:\Drive\Kombinacje\Kombinacje\bin\Debug\Kombinacje.exe
+F:\Drive\Kombinacje\Kombinacje\bin\Debug\Kombinacje.pdb
+F:\Drive\Kombinacje\Kombinacje\obj\Debug\Kombinacje.csprojAssemblyReference.cache
+F:\Drive\Kombinacje\Kombinacje\obj\Debug\Kombinacje.csproj.CoreCompileInputs.cache
+F:\Drive\Kombinacje\Kombinacje\obj\Debug\Kombinacje.exe
+F:\Drive\Kombinacje\Kombinacje\obj\Debug\Kombinacje.pdb
